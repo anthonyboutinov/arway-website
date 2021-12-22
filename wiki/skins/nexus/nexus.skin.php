@@ -335,7 +335,7 @@ class StrappingTemplate extends BaseTemplate {
         <div class="row">
         <ul id="siteFooterMenu" class="siteFooterMenu text-center">
           <li>
-    		<a href="http://arwaytherunningwinner.com">Arway The Running Winner website</a>
+    		<a href="/">Arway The Running Winner website</a>
     		<br>&copy;&nbsp;2015&nbsp;Arway&nbsp;The&nbsp;Running&nbsp;Winner&nbsp;Team. Wiki&nbsp;skin&nbsp;powered&nbsp;by&nbsp;<a href="http://www.mediawikibootstrapskin.co.uk/" target="_blank">MediaWikiBootstrapSkin</a>. Wiki&nbsp;powered&nbsp;by&nbsp;<a href="http://www.mediawiki.org/" target="_blank">MediaWiki</a>.
     		</li>
     	</ul>
